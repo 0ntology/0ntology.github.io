@@ -877,6 +877,7 @@ a:focus, a:hover {
   ==================================================================*/
 .contact-us {
   padding: 100px 0 50px 0;
+  background-color: #F4F8FA;
 }
 
 .contact-form {
@@ -2077,6 +2078,7 @@ a:focus, a:hover {
   }
   /* contact */
   .contact-info {
+    background-color: #010101;
     margin: 0 0 30px;
   }
   #map-canvas {
